@@ -1,4 +1,4 @@
-package mystrings
+package myGoModule
 
 func Reverse(s string) string {
 	result := ""
